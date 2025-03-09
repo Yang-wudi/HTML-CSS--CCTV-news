@@ -140,3 +140,20 @@ git clone https://github.com/Yang-wudi/HTML-CSS--CCTV-news.git
 本项目仅供学习和教学使用，未经授权请勿用于商业用途。如有任何问题或建议，请随时联系作者。
 
 ---
+
+### VS Code 使用建议
+- **快捷键**：
+  - `Ctrl + Shift + P`：打开命令面板。
+  - `Ctrl + S`：保存文件。
+  - `F5`：启动调试。
+- **格式化代码**：
+  - 使用 `Prettier` 插件，按下 `Shift + Alt + F` 快速格式化代码。
+- **实时预览**：
+  - 使用 `Live Server` 插件，右键点击HTML文件并选择“Open with Live Server”进行实时预览。
+
+---
+
+### GitHub项目地址
+[点击访问项目主页](https://github.com/Yang-wudi/HTML-CSS--Sina-Weibo)
+
+---
