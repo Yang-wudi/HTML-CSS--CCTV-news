@@ -154,6 +154,6 @@ git clone https://github.com/Yang-wudi/HTML-CSS--CCTV-news.git
 ---
 
 ### GitHub项目地址
-[点击访问项目主页](https://github.com/Yang-wudi/HTML-CSS--Sina-Weibo)
+[点击访问项目主页](https://github.com/Yang-wudi/HTML-CSS--CCTV-news)
 
 ---
